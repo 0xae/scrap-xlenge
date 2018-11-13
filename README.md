@@ -12,3 +12,5 @@ Relevant links
 * [hyperimaging-and-ai-will-give-us-superhero-vision](https://www.ibm.com/blogs/research/2017/1/ibm-5-in-5-hyperimaging-and-ai-will-give-us-superhero-vision/)
 
 * [Distributed Deep Learning for AI developers (video)](https://www.youtube.com/watch?v=_iOZoipzxGo)
+
+* [Teste](http://www.research.ibm.com/5-in-5/hyperimaging/)
